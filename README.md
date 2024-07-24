@@ -13,3 +13,12 @@ VS Code Setup:
 ```
 <script src="https://cdn.tailwindcss.com"></script>
 ```
+
+### Tailwind CSS Tricks
+
+- groups 
+- peers
+- transition (animation)
+- mobile first framework (default for smallest screen size)
+- VS Code Intellisense
+- extend tailwind classes
